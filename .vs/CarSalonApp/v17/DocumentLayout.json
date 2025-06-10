@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A988479B-9CB2-463A-B2D9-79F66C3B5FE6}|CarLibrary.UnitTests\\CarLibrary.UnitTests.csproj|c:\\users\\tekarex\\source\\repos\\carsalonapp\\carlibrary.unittests\\carunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A988479B-9CB2-463A-B2D9-79F66C3B5FE6}|CarLibrary.UnitTests\\CarLibrary.UnitTests.csproj|solutionrelative:carlibrary.unittests\\carunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A988479B-9CB2-463A-B2D9-79F66C3B5FE6}|CarLibrary.UnitTests\\CarLibrary.UnitTests.csproj|c:\\users\\tekarex\\source\\repos\\carsalonapp\\carlibrary.unittests\\carlibrary.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A988479B-9CB2-463A-B2D9-79F66C3B5FE6}|CarLibrary.UnitTests\\CarLibrary.UnitTests.csproj|solutionrelative:carlibrary.unittests\\carlibrary.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B69757-3A7F-494B-A3EB-589BAC676C0D}|CarLibrary\\CarLibrary.csproj|c:\\users\\tekarex\\source\\repos\\carsalonapp\\carlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B69757-3A7F-494B-A3EB-589BAC676C0D}|CarLibrary\\CarLibrary.csproj|solutionrelative:carlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B69757-3A7F-494B-A3EB-589BAC676C0D}|CarLibrary\\CarLibrary.csproj|c:\\users\\tekarex\\source\\repos\\carsalonapp\\carlibrary\\carbodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B69757-3A7F-494B-A3EB-589BAC676C0D}|CarLibrary\\CarLibrary.csproj|solutionrelative:carlibrary\\carbodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\CarLibrary.UnitTests\\CarUnitTests.cs",
+              "RelativeDocumentMoniker": "CarLibrary.UnitTests\\CarUnitTests.cs",
+              "ToolTip": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\CarLibrary.UnitTests\\CarUnitTests.cs",
+              "RelativeToolTip": "CarLibrary.UnitTests\\CarUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:57:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarLibrary.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\CarLibrary.UnitTests\\CarLibrary.UnitTests.csproj",
+              "RelativeDocumentMoniker": "CarLibrary.UnitTests\\CarLibrary.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\CarLibrary.UnitTests\\CarLibrary.UnitTests.csproj",
+              "RelativeToolTip": "CarLibrary.UnitTests\\CarLibrary.UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T12:57:22.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\CarLibrary\\Car.cs",
+              "RelativeDocumentMoniker": "CarLibrary\\Car.cs",
+              "ToolTip": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\CarLibrary\\Car.cs",
+              "RelativeToolTip": "CarLibrary\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:57:19.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarBodyType.cs",
+              "DocumentMoniker": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\CarLibrary\\CarBodyType.cs",
+              "RelativeDocumentMoniker": "CarLibrary\\CarBodyType.cs",
+              "ToolTip": "C:\\Users\\tekarex\\source\\repos\\CarSalonApp\\CarLibrary\\CarBodyType.cs",
+              "RelativeToolTip": "CarLibrary\\CarBodyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:57:16.127Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

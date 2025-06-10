@@ -1,0 +1,11 @@
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\bin\Debug\net8.0\CarLibrary.deps.json
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\bin\Debug\net8.0\CarLibrary.dll
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\bin\Debug\net8.0\CarLibrary.pdb
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\obj\Debug\net8.0\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\obj\Debug\net8.0\CarLibrary.AssemblyInfoInputs.cache
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\obj\Debug\net8.0\CarLibrary.AssemblyInfo.cs
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\obj\Debug\net8.0\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\obj\Debug\net8.0\CarLibrary.dll
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\obj\Debug\net8.0\refint\CarLibrary.dll
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\obj\Debug\net8.0\CarLibrary.pdb
+C:\Users\tekarex\source\repos\CarSalonApp\CarLibrary\obj\Debug\net8.0\ref\CarLibrary.dll
